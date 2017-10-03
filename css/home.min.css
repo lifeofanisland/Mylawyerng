@@ -1,0 +1,51 @@
+.post-container{
+	padding: 20px;
+}
+
+.post-container-dp{
+	float: left
+}
+
+.post-container-user{
+	float: left; text-align: left; margin-left: 10px;
+}
+
+.post-container-time{
+	display: block; font-size: 11px; color: #666666; margin-top: 3px;
+}
+
+.post-container-more{
+	float: right; font-size: 15px;
+}
+
+.post-container-interaction{
+	margin-top: 10px; border-top: 1px solid #f3f3f3; width: 100%; padding-top: 10px;
+}
+
+.post-container-interaction-option{
+	display: inline-block; font-size: 11px; color: #666666;
+}
+
+.post-container-interaction-option-right{
+	display: inline-block; font-size: 11px; color: #666666; float: right;
+}
+
+.comment-container{
+	margin-top: 20px; background: #f4f4f4; width: 100%; padding: 20px;
+}
+
+.comment-container-dp{
+	float: left;
+}
+
+.comment-container-write-comment{
+	float: left; margin-left: 5px; width: 90%;
+}
+
+.comment-container-comment-textarea{
+	width: 89.6%; border-radius: 5px; border: 0px; height: 40px; outline: 0; padding: 10px;
+}
+
+.comment-container-send-comment{
+	float: right; margin-top: -0px; z-index: 100000px; border-radius: 5px; border: 0px; padding: 10px; background: #3C6ACD; color: #fff;
+}

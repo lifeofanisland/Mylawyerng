@@ -1,0 +1,69 @@
+.colorWhite{
+    color: white !important;
+}
+
+.colorBlack{
+    color: #333 !important;
+}
+
+.colorPrimary{
+    color: #3C6ACD !important;
+}
+
+.backgroundGreen{
+    background: green !important;
+}
+
+.backgroundPrimary{
+    background: #3359ab !important;
+}
+
+.backgroundPrimary1{
+    background: #2F64A5 !important;
+}
+
+.backgroundPrimary2{
+    background: #342FA5 !important;
+}
+
+.backgroundPrimary3{
+    background: blue !important;
+}
+
+.backgroundPrimary4{
+    background: rgba(19, 19, 183, 0.36) !important;
+}
+
+.backgroundPrimary5{
+    background: yellow !important;
+}
+
+.backgroundPrimary6{
+    background: green !important;
+}
+
+.backgroundPrimary7{
+    background: white !important;
+}
+
+.backgroundPrimary8{
+    background: url('../img/bg.png') no-repeat;
+    background-position: bottom;
+    background-size: 100%;
+}
+
+.backgroundPrimary9{
+    background: #333 !important;
+}
+
+.backgroundPrimary10{
+    background: url('../img/bg1.png') no-repeat;
+    background-position: right top;
+    background-size: 80%;
+}
+
+.backgroundPrimary11{
+    background: url('../img/bg4.gif') no-repeat;
+    background-position: center;
+    background-size: 100%;
+}

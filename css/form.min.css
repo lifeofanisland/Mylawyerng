@@ -1,0 +1,23 @@
+.textarea-noborder-nooutline{
+	width: 100%; outline: 0; border: 0px; padding: 20px;
+}
+
+.input-noborder-nooutline{
+	width: 89.6%; border-radius: 5px; border: 0px; height: 40px; outline: 0; padding: 20px;
+}
+
+.submit-btn-right{
+	float: right; border-radius: 5px; border: 0px; padding: 10px; background: #3C6ACD; color: #fff;
+}
+
+.new-post-container{
+	width: 100%; background: #fff; padding: 20px;
+}
+
+.new-post-container-inner{
+	float: left; margin-top: 10px;
+}
+
+.new-post-fa-icon{
+	color: #3C6ACD; font-size: 20px;
+}

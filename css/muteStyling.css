@@ -1,0 +1,62 @@
+/*
+mute specific styling on demand
+@author IG @lifeofanisland
+https://lifeofanisland.herokuapp.com
+*/
+.noBackgroundColor{
+	background-color: #fff !important;
+}
+.noBackground{
+	background: transparent;
+}
+.noMargin{
+	margin: 0px !important;
+}
+.noMarginTop{
+	margin-top: 0px !important;
+}
+.noMarginBottom{
+	margin-bottom: 0px !important;
+}
+.noMarginRight{
+	margin-right: 0px !important;
+}
+.noMarginLeft{
+	margin-left: 0px !important;
+}
+.noPadding{
+	padding: 0px !important;
+}
+.noPaddingTop{
+	padding-top: 0px !important;
+}
+.noPaddingBottom{
+	padding-bottom: 0px !important;
+}
+.noPaddingRight{
+	padding-right: 0px !important;
+}
+.noPaddingLeft{
+	padding-left: 0px !important;
+}
+.noBorderColor{
+	border-color: transparent !important;
+}
+.noBorderTop{
+	border-top: 0px !important;
+}
+.noBorderBottom{
+	border-bottom: 0px !important;
+}
+.noBorderRight{
+	border-right: 0px !important;
+}
+.noBorderLeft{
+	border-left: 0px !important;
+}
+.noDisplay{
+	display: none !important;
+}
+.noDisplay2{
+	display: none;
+}

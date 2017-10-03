@@ -1,0 +1,146 @@
+/*
+override specific styling on demand
+@author IG @lifeofanisland
+https://lifeofanisland.herokuapp.com
+*/
+
+.fontWeight100{
+	font-weight: 100 !important;
+}
+
+.fontWeight200{
+	font-weight: 200 !important;
+}
+
+.fontWeight300{
+	font-weight: 300 !important;
+}
+
+.fontWeight400{
+	font-weight: 400 !important;
+}
+
+.fontWeight500{
+	font-weight: 500 !important;
+}
+
+.fontSize15{
+	font-size: 15px !important;
+}
+
+.fontSize20{
+	font-size: 20px !important;
+}
+
+.fontSize25{
+	font-size: 25px !important;
+}
+
+.fontSize30{
+	font-size: 30px !important;
+}
+
+.fontSize35{
+	font-size: 35px !important;
+}
+
+.fontSize40{
+	font-size: 40px !important;
+}
+
+.fontSize45{
+	font-size: 45px !important;
+}
+
+.fontSize50{
+	font-size: 50px !important;
+}
+
+.marginTop10{
+	margin-top: 10px;
+}
+
+.marginTop-10{
+	margin-top: -10px;
+}
+
+.marginTop20{
+	margin-top: 20px;
+}
+
+.marginTop-20{
+	margin-top: -20px;
+}
+
+.marginBottom20{
+	margin-bottom: 20px;
+}
+
+.marginTop40{
+	margin-top: 40px;
+}
+
+.marginBottom40{
+	margin-bottom: 40px;
+}
+
+.marginBottom30{
+	margin-bottom: 30px;
+}
+
+.marginAll20{
+	margin: 20px !important;
+}
+
+.marginAll5{
+	margin: 5px !important;
+}
+
+.marginAll10{
+	margin: 10px !important;
+}
+
+.fontBold{
+	font-weight: bold !important;
+}
+
+.inLineBlock{
+	display: inline-block !important;
+}
+
+.colorBlackFade{
+	color: #333 !important;
+}
+
+.colorWhite{
+	color: #fff !important;
+}
+
+.colorPrimary{
+	background-color: #065EAF !important;
+}
+
+.colorHashLight{
+	background-color: #f3f3f3 !important;
+}
+
+.borderBottomHashLight1px{
+	border-bottom: 1px solid #f3f3f3 !important;
+}
+
+.paddingAll{
+	padding: 5px !important;
+}
+
+.paddingAll10{
+	padding: 10px !important;
+}
+
+.showDisplay{
+	display: block !important;
+}
+
+.borderRadiusAll5{
+	border-radius: 5px !important;
+}
+
