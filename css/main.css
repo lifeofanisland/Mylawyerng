@@ -579,7 +579,6 @@ footer .col-md-12 {
 .signupform-input-half{
   border-radius: 5px;
   padding: 10px;
-  width: 49.5%;
   margin-bottom: 10px;
   border: 2px solid #f3f3f3;
   display: inline;
@@ -602,8 +601,26 @@ footer .col-md-12 {
 .social-signup-btn{
   border-radius: 5px;
   padding: 10px;
-  width: 49.5%;
   margin-bottom: 10px;
   border: 2px solid #f3f3f3;
   display: inline;
+}
+
+.find-a-lawyer-mobile{
+  font-family: CircularBook;
+    opacity: 1!important;
+    font-size: 21px;
+    font-weight: 500;
+    letter-spacing: -0.6px;
+    text-align: center;
+    color: #ffffff;
+    padding: 12px 15px;
+    display: inline-block;
+    background-color: #3C6ACD;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    padding: 9px 54px;
+    margin-top: 30px;
+    -webkit-box-shadow: 0 4px 15px rgba(69, 55, 236, 0.25);
+    box-shadow: 0 4px 15px rgba(69, 55, 236, 0.25);
 }

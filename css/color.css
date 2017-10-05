@@ -48,8 +48,8 @@
 
 .backgroundPrimary8{
     background: url('../img/bg.png') no-repeat;
-    background-position: bottom;
-    background-size: 100%;
+    background-position: center;
+    background-size: cover;
 }
 
 .backgroundPrimary9{
@@ -58,8 +58,8 @@
 
 .backgroundPrimary10{
     background: url('../img/bg1.png') no-repeat;
-    background-position: right top;
-    background-size: 80%;
+    background-position: center;
+    background-size: cover;
 }
 
 .backgroundPrimary11{
